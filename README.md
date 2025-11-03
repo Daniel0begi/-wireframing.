@@ -1,4 +1,4 @@
-# wireframing
+#wireframing
 A wireframe outlines a page’s structure and layout before development. It helps plan how users will interact with the system.
 
 Layout Structure: Shows how sections like headers and footers are arranged. Example: A booking page with a search bar on top and results in the center.
